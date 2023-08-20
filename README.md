@@ -7,7 +7,7 @@ hi, im Yoonjae 🔮.
 + living in dallas, texas.
 - 16 years old
 ! program engineer and computer science student
-* python, java, and C++ / HTML, CSS
+* python, java, and C++ | HTML, CSS
 # 📖 game hacking / reverse engineering
 ```
 ------
